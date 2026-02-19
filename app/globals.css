@@ -2,7 +2,7 @@
 
 :root {
   color-scheme: light;
-  --background: oklch(0.98 0.01 280);
+  --background: #F5E6D3 ;
   --foreground: #633639;
   --card: oklch(0.99 0.005 280);
   --card-foreground: oklch(0.28 0.02 280);
