@@ -23,7 +23,7 @@ export const images: BentoItem[] = [
         message: "Descripción breve o mensaje asociado a la imagen",
         src: "/images/media/3.png",
         cols: 1,
-        rows: 3,
+        rows: 5,
     },
 
     {
@@ -32,9 +32,16 @@ export const images: BentoItem[] = [
         message: "Descripción breve o mensaje asociado a la imagen",
         src: "/images/media/4.png",
         cols: 1,
-        rows: 5,
+        rows: 7,
     },
-
+    {
+        id: "6",
+        title: "Título de la imagen",
+        message: "Descripción breve o mensaje asociado a la imagen",
+        src: "/images/media/6.png",
+        cols: 1,
+        rows: 4,
+    },
     {
         id: "5",
         title: "Título de la imagen",
@@ -43,4 +50,5 @@ export const images: BentoItem[] = [
         cols: 2,
         rows: 3,
     },
+
 ];
