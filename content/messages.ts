@@ -32,5 +32,11 @@ export const messages: Message[] = [
     author: "Andrea Ortego",
     date: "Febrero 2026",
     message: "Le quiero mandar unas palabras al Tota, ya que no tuve oportunidad de despedirme. Tota, mibrito, fuiste una luz que iluminó muchos caminos a su paso. Me gustaría, y me encantaría decir que tu lejanía no nos dejó sombra, pero la verdad es que hasta la fecha partes de mi camino no logran volver a tener luz. El mundo siguió girando, lamentablemente, sin ti. Pero en mi mundo tú seguirás, por años y años, iluminando. El día que me vaya nos vamos juntos poh. Gracias por estar ahí, y aquí, entregándonos tanto pese a lo que estabas pasando. Eres una persona tan maravillosa que el mundo no estaba listo para ti, tu humanidad, cariño, y tus abrazos eran algo que salía por completo de la norma. Gracias por contarme de ti, por dejarme entrar a tu vida -y ahora a la de tu familia-, por estar siempre conmigo presencial o no presencialmente. Quiero dedicarte cada pequeño logro, cada día logrado, cada pasito dado a ti porque sin ti no seríamos quiénes somos ahora. Besitos y muchas fotos en el WC para ti❤️‍🩹"
+  },
+  {
+    id: "5",
+    author: "Demian Fernando Geraldo Órdenes",
+    date: "Febrero 2026",
+    message: "Para Gonzalo, nuestro Tota, Kabutota, Totita. Hay personas que llegan al mundo para iluminarlo sin siquiera darse cuenta. Tú eras así, Tota.Siempre iluminando nuestras vidas, aunque quizás jamás me creíste cuando te lo decía. Tus abrazos…esos abrazos tan apretados que parecían querer sostener el mundo entero. Eran refugio, eran de verdad. No sé si sabías lo que venía, no sé si en algún rincón de tu corazón lo intuías. Pero de cualquier modo, quiero que donde estés sepas algo que es eterno: te querré siempre. Dicen que un hombre sólo muere cuando es olvidado. Y tú, Tota, tocaste nuestros corazones con una suavidad imposible de borrar. Sigues vivo en cada risa que nos regalaste, en cada recuerdo que nos aprieta el pecho, en cada historia que repetimos con lágrimas y sonrisa al mismo tiempo. Gracias por tu luz. Gracias por tu ternura. Gracias por haber sido tú. Nunca serás olvidado. Siempre serás abrazo."
   }
 ];
