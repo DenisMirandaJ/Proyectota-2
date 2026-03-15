@@ -1,4 +1,5 @@
 import { Footer } from "@/components/footer";
+import FarewellNoteSection from "@/components/farewell-note-section";
 import { HeroSection } from "@/components/hero-section";
 import MediaSection from "@/components/media-section";
 import MessagesSection from "@/components/messages-section";
@@ -9,6 +10,8 @@ export default function Home() {
   return (
     <main className="min-h-screen">
       <HeroSection />
+      <Separator />
+      <FarewellNoteSection />
       <Separator />
       <MediaSection />
       <Separator />
